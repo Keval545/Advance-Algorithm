@@ -47,7 +47,7 @@ int main()
     
     randomize_quickSort(arr,0,999);
     
-    cout<<count1<<" ";
+    cout<<"no of comparision"<<count1<<" ";
 
     return 0;
 }
